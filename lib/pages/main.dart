@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      theme: WeinFluThemes.defaulTheme,
+      theme: WeinFluThemes.defaultTheme,
       home: const WeinFluApp()
     );
   }
